@@ -1,4 +1,3 @@
-package Training2;
 import java.util.*;
 public class Popularity {
     public static void main(String[] args) {

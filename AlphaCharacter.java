@@ -1,4 +1,3 @@
-package Training2;
 import java.util.Scanner;
 public class AlphaCharacter {
     public static void main(String args[]){

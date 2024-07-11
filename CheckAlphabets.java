@@ -1,4 +1,3 @@
-package Training2;
 import java.util.*;
 public class CheckAlphabets {
     public static void main(String[] args) {
