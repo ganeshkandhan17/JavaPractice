@@ -1,5 +1,5 @@
 import Calculator.CalcMethods;   
-public class CalculatorPackage {
+public class PackageCalculator {
     public static void main(String[] args) {
         CalcMethods calc=new CalcMethods();
         System.out.println();
